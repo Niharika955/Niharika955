@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Niharika955
-- 👀 I’m interested in Web Development and Cloud Computing 
-- 🌱 I’m currently learning AWS 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Analytics 
+- 🌱 I’m currently learning Power BI
 - 📫 How to reach me niharikajain955@gmail.com
 
 <!---
