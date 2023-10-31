@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niharika955
 - 👀 I’m interested in Analytics 
-- 🌱 I’m currently learning Power BI
+- 🌱 I’m currently learning Power BI, Golang, Kotlin
 - 📫 How to reach me niharikajain955@gmail.com
 
 <!---
